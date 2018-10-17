@@ -3,11 +3,11 @@
 This repo contains the solution code for the *CSS Transitions* lesson
 
 ## What is covered
-Throughout this lesson we'll learn how to put together a simple website using the aspects of responsive design that we've learned throughout the previous lessons
+In this lesson we'll learn how to animate the transistions of changes on an element using transistions. This will allow us to animate the transistions between widths, colors, etc.
 
 ## Contents
 This repository contains the solution code for the following units -
-  - 01-setting_up_our_html_structure
-  - 02-styling_the_header
-  - 03-styling_the_section
-  - 04-styling_the_columns
+  - 01-transistion_property_part_1
+  - 02-transistion_property_part_2
+  - 03-transistion_property_part_3
+  - 04-transistion_timing_function
